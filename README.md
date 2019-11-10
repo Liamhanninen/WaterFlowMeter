@@ -1,5 +1,5 @@
 # WaterFlowMeter
-Usinga YF-201 Water Flow Sensor track water usage and send to database.
+Usinga YF-201 Water Flow Sensor track water usage and send to database. https://www.adafruit.com/product/828
 
 ## About
 I have a 200 gallon water tank that I refill from a well when it gets low. Using this sensor I can monitor usage and know when it's time to refill the tank.
@@ -15,3 +15,12 @@ It turns out that a rotation is signaled by sending whatever the alternate to th
 If the database insert/connection was not successful it stores the data in a list until the next attempt.
 
 The code itself is heavily commented - good luck!
+## Getting Started
+
+`git clone https://github.com/Liamhanninen/WaterFlowMeter.git`
+
+`cd WaterFlowMeter`
+
+`pip install -r requirements.txt`
+
+`python water_flow.py`
