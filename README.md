@@ -1,5 +1,5 @@
 # WaterFlowMeter
-Using a YF-201 Water Flow Sensor track water usage and send to database. https://www.adafruit.com/product/828
+Using a YF-201 Water Flow Sensor track water usage and send to database https://www.adafruit.com/product/828. See 'Stuff' section below to see everything I used.
 
 ## About
 I have a 200 gallon water tank that I refill from a well when it gets low. Using this sensor I can monitor usage and know when it's time to refill the tank.
@@ -25,3 +25,16 @@ The code itself is heavily commented - good luck!
 `pip install -r requirements.txt`
 
 `python water_flow.py`
+
+## Stuff
+0. Raspberry Pi Zero WH (Zero W with Headers) (headers optional) https://www.adafruit.com/product/3708?gclid=CjwKCAiAzanuBRAZEiwA5yf4ul30H_1a7R2wLFtjlCfOP4aGevPwQkN8Vo97Pvj_m4r_UZRgzIpz6RoCd7AQAvD_BwE
+1. YF-201 Water Flow Sensor https://www.adafruit.com/product/828
+2. 4.7k resistor
+3. 10k resistor
+4. Blue Monster Pipe Sealent tape (any sealent tape works) https://www.menards.com/main/plumbing/plumbing-installation-repair/pipe-sealants-caulk-putty/blue-monster-1-2-x-1429-pipe-thread-tape/70885/p-1444440441022-c-8531.htm?tid=-817058810073155805&ipos=10
+5. Male adapter to garden hose https://www.menards.com/main/plumbing/rough-plumbing/pipe-tubing-hoses-fittings-accessories/fittings/garden-hose-fittings/sioux-chief-3-4-male-garden-hose-x-1-2-fip-brass-adapter/0122223/p-1444442661694-c-9432.htm?searchTermToProduct=0122223
+6. Female adapter to garden hose https://www.menards.com/main/plumbing/rough-plumbing/pipe-tubing-hoses-fittings-accessories/fittings/garden-hose-fittings/sioux-chief-3-4-female-garden-hose-x-1-2-fip-brass-adapter/0122025/p-1444442656386-c-9432.htm?searchTermToProduct=0122025
+7. Obviously also some wire, hose and patience.
+
+Good luck!
+
