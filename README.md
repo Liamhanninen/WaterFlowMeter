@@ -1,5 +1,5 @@
 # WaterFlowMeter
-Using a YF-201 Water Flow Sensor track water usage and send to database https://www.adafruit.com/product/828. See 'Stuff' section below to see everything I used.
+Using a YF-201 Water Flow Sensor track water usage and send to database https://www.adafruit.com/product/828. See 'Stuff' section at the end to see everything I used.
 
 ## About
 I have a 200 gallon water tank that I refill from a well when it gets low. Using this sensor I can monitor usage and know when it's time to refill the tank.
